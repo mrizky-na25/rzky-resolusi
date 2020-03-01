@@ -6,7 +6,9 @@ JADWAL RENCANA SEHARI-HARI
   * membiasakannya setiap hari
 - waktu free
   * gunakan dgn sebaik mungkin
+  * latihan memcoba materi yg dipelajari
 - waktu weekend
   * santai & punya waktu free lebih banyak
+  * mencari/ menambah materi tentang pemograman web
 - Waktu sekolah
   * waktu u/ pergi ke sekolah
